@@ -1,0 +1,693 @@
+ 操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 10:44:02 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:44:02 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 10:46:24 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:46:24 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 10:46:25 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:46:25 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 10:46:39 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:46:39 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 10:46:40 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:46:40 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 10:46:41 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:46:41 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 10:46:42 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:46:42 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 10:46:42 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:46:42 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 10:46:43 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:46:43 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 10:46:49 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:46:49 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 10:46:50 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:46:50 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 10:46:51 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:46:51 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 10:46:52 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:46:52 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 10:47:06 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:47:06 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 10:47:08 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:47:08 
+  操作： sql跟踪  select * from  `users`  where school_id >0  and college is not null  order by created desc limit 0,100	localhost 	2013-10-17 10:47:13 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,1000	use old write connect 	2013-10-17 10:47:13 
+  操作： sql跟踪  select * from  `users`  where id=41 limit 0,1	use old write connect 	2013-10-17 10:47:13 
+  操作： sql跟踪  select * from  `users`  where id=42 limit 0,1	use old write connect 	2013-10-17 10:47:13 
+  操作： sql跟踪  select * from  `users`  where id=40 limit 0,1	use old write connect 	2013-10-17 10:47:13 
+  操作： sql跟踪  select * from  `users`  where id=36 limit 0,1	use old write connect 	2013-10-17 10:47:13 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:47:13 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:47:13 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:47:13 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:47:13 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:47:13 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:47:13 
+  操作： sql跟踪  select p.*,u.area_id,u.school_id,u.realname,u.area_id,u.school_id from plan p 
+				LEFT JOIN users u on p.user_id =u.id where p.id=10	localhost 	2013-10-17 10:47:23 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:47:23 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:47:23 
+  操作： sql跟踪  select * from  `users`  where school_id >0  and college is not null  order by created desc limit 0,100	localhost 	2013-10-17 10:47:26 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,1000	use old write connect 	2013-10-17 10:47:26 
+  操作： sql跟踪  select * from  `users`  where id=41 limit 0,1	use old write connect 	2013-10-17 10:47:26 
+  操作： sql跟踪  select * from  `users`  where id=42 limit 0,1	use old write connect 	2013-10-17 10:47:26 
+  操作： sql跟踪  select * from  `users`  where id=40 limit 0,1	use old write connect 	2013-10-17 10:47:26 
+  操作： sql跟踪  select * from  `users`  where id=36 limit 0,1	use old write connect 	2013-10-17 10:47:26 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:47:26 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:47:26 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:47:26 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:47:26 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:47:26 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:47:26 
+  操作： sql跟踪  select * from  `imgs`  where from_id=1	localhost 	2013-10-17 10:47:28 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 10:47:50 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:47:50 
+  操作： sql跟踪  select * from  `users`  where school_id >0  and college is not null  order by created desc limit 0,100	localhost 	2013-10-17 10:47:58 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,1000	use old write connect 	2013-10-17 10:47:58 
+  操作： sql跟踪  select * from  `users`  where id=41 limit 0,1	use old write connect 	2013-10-17 10:47:58 
+  操作： sql跟踪  select * from  `users`  where id=42 limit 0,1	use old write connect 	2013-10-17 10:47:58 
+  操作： sql跟踪  select * from  `users`  where id=40 limit 0,1	use old write connect 	2013-10-17 10:47:58 
+  操作： sql跟踪  select * from  `users`  where id=36 limit 0,1	use old write connect 	2013-10-17 10:47:58 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:47:58 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:47:58 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:47:58 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:47:58 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:47:58 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:47:58 
+  操作： sql跟踪  select * from  `imgs`  where from_id=1	localhost 	2013-10-17 10:47:58 
+  操作： sql跟踪  select * from  `users`  where school_id >0  and college is not null  order by created desc limit 0,100	localhost 	2013-10-17 10:48:00 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,1000	use old write connect 	2013-10-17 10:48:00 
+  操作： sql跟踪  select * from  `users`  where id=41 limit 0,1	use old write connect 	2013-10-17 10:48:00 
+  操作： sql跟踪  select * from  `users`  where id=42 limit 0,1	use old write connect 	2013-10-17 10:48:00 
+  操作： sql跟踪  select * from  `users`  where id=40 limit 0,1	use old write connect 	2013-10-17 10:48:00 
+  操作： sql跟踪  select * from  `users`  where id=36 limit 0,1	use old write connect 	2013-10-17 10:48:00 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:48:00 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:48:00 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:48:00 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:48:00 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:48:00 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:48:00 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 10:48:00 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 10:48:01 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:48:01 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 10:48:03 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:48:03 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 10:48:03 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:48:03 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 10:48:04 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:48:04 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 10:48:05 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:48:05 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 10:48:06 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:48:06 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 10:49:37 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:49:37 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 10:49:57 
+  操作： sql跟踪  select * from  `admin`  where nickname = 'admin' and password= '999999'  limit 0,1	localhost 	2013-10-17 10:50:10 
+  操作： sql跟踪  select count(*) as count from  `users`  where  1 	localhost 	2013-10-17 10:50:17 
+  操作： sql跟踪  select * from  `users`  where  1  limit 0,10	use old write connect 	2013-10-17 10:50:17 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:50:17 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:50:17 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:50:17 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:50:17 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:50:17 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:50:17 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:50:17 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:50:17 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:50:17 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:50:17 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:50:17 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 10:50:18 
+  操作： sql跟踪  select count(*) as count from  `users`  where  1 	localhost 	2013-10-17 10:50:19 
+  操作： sql跟踪  select * from  `users`  where  1  limit 0,10	use old write connect 	2013-10-17 10:50:19 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:50:19 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:50:19 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:50:19 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:50:19 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:50:19 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:50:19 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:50:19 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:50:19 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:50:19 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:50:19 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:50:19 
+  操作： sql跟踪  select count(*) as count from  `users`  where  1 	localhost 	2013-10-17 10:50:28 
+  操作： sql跟踪  select * from  `users`  where  1  limit 0,10	use old write connect 	2013-10-17 10:50:28 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:50:28 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:50:28 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:50:28 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:50:28 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:50:28 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:50:28 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:50:28 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:50:28 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:50:28 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:50:28 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:50:28 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 10:50:30 
+  操作： sql跟踪  select count(*) as count from  `imgs` 	localhost 	2013-10-17 10:50:33 
+  操作： sql跟踪  select * from  `imgs`  where from_id=1 limit 0,10	use old write connect 	2013-10-17 10:50:33 
+  操作： sql跟踪  select count(*) as count  from plan p LEFT JOIN users u on p.user_id =u.id  where  1 	localhost 	2013-10-17 10:50:34 
+  操作： sql跟踪  select p.*,u.area_id,u.school_id,u.realname from plan p 
+				LEFT JOIN users u on p.user_id =u.id  where  1  limit 0,10	use old write connect 	2013-10-17 10:50:34 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:50:34 
+  操作： sql跟踪  select count(*) as count  from plan p LEFT JOIN users u on p.user_id =u.id  where  1 	localhost 	2013-10-17 10:50:35 
+  操作： sql跟踪  select p.*,u.area_id,u.school_id,u.realname from plan p 
+				LEFT JOIN users u on p.user_id =u.id  where  1  limit 0,10	use old write connect 	2013-10-17 10:50:35 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:50:35 
+  操作： sql跟踪  select count(*) as count from  `imgs` 	localhost 	2013-10-17 10:50:35 
+  操作： sql跟踪  select * from  `imgs`  where from_id=1 limit 0,10	use old write connect 	2013-10-17 10:50:35 
+  操作： sql跟踪  select count(*) as count from  `imgs` 	localhost 	2013-10-17 10:50:41 
+  操作： sql跟踪  select * from  `imgs`  where from_id=1 limit 0,10	use old write connect 	2013-10-17 10:50:41 
+  操作： sql跟踪  select count(*) as count  from plan p LEFT JOIN users u on p.user_id =u.id  where  1 	localhost 	2013-10-17 10:50:42 
+  操作： sql跟踪  select p.*,u.area_id,u.school_id,u.realname from plan p 
+				LEFT JOIN users u on p.user_id =u.id  where  1  limit 0,10	use old write connect 	2013-10-17 10:50:42 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:50:42 
+  操作： sql跟踪  select count(*) as count from  `scheme`  where  1 	localhost 	2013-10-17 10:50:45 
+  操作： sql跟踪  select * from  `scheme`  where  1  limit 0,10	use old write connect 	2013-10-17 10:50:45 
+  操作： sql跟踪  select count(*) as count from  `scheme`  where  1 	localhost 	2013-10-17 10:50:49 
+  操作： sql跟踪  select * from  `scheme`  where  1  limit 0,10	use old write connect 	2013-10-17 10:50:49 
+  操作： sql跟踪  select count(*) as count from  `scheme`  where  1 	localhost 	2013-10-17 10:50:50 
+  操作： sql跟踪  select * from  `scheme`  where  1  limit 0,10	use old write connect 	2013-10-17 10:50:50 
+  操作： sql跟踪  select count(*) as count  from plan p LEFT JOIN users u on p.user_id =u.id  where  1 	localhost 	2013-10-17 10:50:51 
+  操作： sql跟踪  select p.*,u.area_id,u.school_id,u.realname from plan p 
+				LEFT JOIN users u on p.user_id =u.id  where  1  limit 0,10	use old write connect 	2013-10-17 10:50:51 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:50:51 
+  操作： sql跟踪  select count(*) as count from  `imgs` 	localhost 	2013-10-17 10:50:51 
+  操作： sql跟踪  select * from  `imgs`  where from_id=1 limit 0,10	use old write connect 	2013-10-17 10:50:51 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 10:50:51 
+  操作： sql跟踪  select count(*) as count from  `users`  where  1 	localhost 	2013-10-17 10:50:52 
+  操作： sql跟踪  select * from  `users`  where  1  limit 0,10	use old write connect 	2013-10-17 10:50:52 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:50:52 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:50:52 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:50:52 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:50:52 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:50:52 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:50:52 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:50:52 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:50:52 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:50:52 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:50:52 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:50:52 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 10:50:56 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:50:56 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 10:51:46 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 10:51:47 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:51:47 
+  操作： sql跟踪  select * from  `users`  where school_id >0  and college is not null  order by created desc limit 0,100	localhost 	2013-10-17 10:51:47 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,1000	use old write connect 	2013-10-17 10:51:47 
+  操作： sql跟踪  select * from  `users`  where id=41 limit 0,1	use old write connect 	2013-10-17 10:51:47 
+  操作： sql跟踪  select * from  `users`  where id=42 limit 0,1	use old write connect 	2013-10-17 10:51:47 
+  操作： sql跟踪  select * from  `users`  where id=40 limit 0,1	use old write connect 	2013-10-17 10:51:47 
+  操作： sql跟踪  select * from  `users`  where id=36 limit 0,1	use old write connect 	2013-10-17 10:51:47 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:51:47 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:51:47 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:51:47 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:51:47 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:51:47 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:51:47 
+  操作： sql跟踪  select * from  `imgs`  where from_id=1	localhost 	2013-10-17 10:51:48 
+  操作： sql跟踪  select * from  `users`  where school_id >0  and college is not null  order by created desc limit 0,100	localhost 	2013-10-17 10:51:49 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,1000	use old write connect 	2013-10-17 10:51:49 
+  操作： sql跟踪  select * from  `users`  where id=41 limit 0,1	use old write connect 	2013-10-17 10:51:49 
+  操作： sql跟踪  select * from  `users`  where id=42 limit 0,1	use old write connect 	2013-10-17 10:51:49 
+  操作： sql跟踪  select * from  `users`  where id=40 limit 0,1	use old write connect 	2013-10-17 10:51:49 
+  操作： sql跟踪  select * from  `users`  where id=36 limit 0,1	use old write connect 	2013-10-17 10:51:49 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:51:49 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:51:49 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:51:49 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:51:49 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:51:49 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:51:49 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 10:51:50 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 10:51:51 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 10:51:51 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 10:51:51 
+  操作： sql跟踪  select * from  `users`  where school_id >0  and college is not null  order by created desc limit 0,100	localhost 	2013-10-17 10:51:52 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,1000	use old write connect 	2013-10-17 10:51:52 
+  操作： sql跟踪  select * from  `users`  where id=41 limit 0,1	use old write connect 	2013-10-17 10:51:52 
+  操作： sql跟踪  select * from  `users`  where id=42 limit 0,1	use old write connect 	2013-10-17 10:51:52 
+  操作： sql跟踪  select * from  `users`  where id=40 limit 0,1	use old write connect 	2013-10-17 10:51:52 
+  操作： sql跟踪  select * from  `users`  where id=36 limit 0,1	use old write connect 	2013-10-17 10:51:52 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:51:52 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:51:52 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:51:52 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:51:52 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:51:52 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 10:51:52 
+  操作： sql跟踪  select * from  `imgs`  where from_id=1	localhost 	2013-10-17 10:51:53 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 11:09:35 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 11:09:35 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 11:09:38 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 11:09:38 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 11:09:39 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 11:09:39 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 11:09:40 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 11:09:40 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 11:09:45 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 11:12:50 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 11:12:50 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 11:12:52 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 11:12:52 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 11:12:53 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 11:12:53 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 11:12:53 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 11:12:53 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 11:12:55 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 11:13:43 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 11:13:46 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 11:13:48 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 11:13:49 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 11:13:52 
+  操作： sql跟踪  select * from  `users`  where school_id >0  and college is not null  order by created desc limit 0,100	localhost 	2013-10-17 11:13:57 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,1000	use old write connect 	2013-10-17 11:13:57 
+  操作： sql跟踪  select * from  `users`  where id=41 limit 0,1	use old write connect 	2013-10-17 11:13:57 
+  操作： sql跟踪  select * from  `users`  where id=42 limit 0,1	use old write connect 	2013-10-17 11:13:57 
+  操作： sql跟踪  select * from  `users`  where id=40 limit 0,1	use old write connect 	2013-10-17 11:13:57 
+  操作： sql跟踪  select * from  `users`  where id=36 limit 0,1	use old write connect 	2013-10-17 11:13:57 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:13:57 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:13:57 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:13:57 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:13:57 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:13:57 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:13:57 
+  操作： sql跟踪  select * from  `users`  where school_id >0  and college is not null  order by created desc limit 0,100	localhost 	2013-10-17 11:14:21 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,1000	use old write connect 	2013-10-17 11:14:21 
+  操作： sql跟踪  select * from  `users`  where id=41 limit 0,1	use old write connect 	2013-10-17 11:14:21 
+  操作： sql跟踪  select * from  `users`  where id=42 limit 0,1	use old write connect 	2013-10-17 11:14:21 
+  操作： sql跟踪  select * from  `users`  where id=40 limit 0,1	use old write connect 	2013-10-17 11:14:21 
+  操作： sql跟踪  select * from  `users`  where id=36 limit 0,1	use old write connect 	2013-10-17 11:14:21 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:14:21 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:14:21 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:14:21 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:14:21 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:14:21 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:14:21 
+  操作： sql跟踪  select * from  `users`  where school_id >0  and college is not null  order by created desc limit 0,100	localhost 	2013-10-17 11:14:31 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,1000	use old write connect 	2013-10-17 11:14:31 
+  操作： sql跟踪  select * from  `users`  where id=41 limit 0,1	use old write connect 	2013-10-17 11:14:31 
+  操作： sql跟踪  select * from  `users`  where id=42 limit 0,1	use old write connect 	2013-10-17 11:14:31 
+  操作： sql跟踪  select * from  `users`  where id=40 limit 0,1	use old write connect 	2013-10-17 11:14:31 
+  操作： sql跟踪  select * from  `users`  where id=36 limit 0,1	use old write connect 	2013-10-17 11:14:31 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:14:31 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:14:31 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:14:31 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:14:31 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:14:31 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:14:31 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 11:14:33 
+  操作： sql跟踪  select * from  `users`  where school_id >0  and college is not null  order by created desc limit 0,100	localhost 	2013-10-17 11:14:34 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,1000	use old write connect 	2013-10-17 11:14:34 
+  操作： sql跟踪  select * from  `users`  where id=41 limit 0,1	use old write connect 	2013-10-17 11:14:34 
+  操作： sql跟踪  select * from  `users`  where id=42 limit 0,1	use old write connect 	2013-10-17 11:14:34 
+  操作： sql跟踪  select * from  `users`  where id=40 limit 0,1	use old write connect 	2013-10-17 11:14:34 
+  操作： sql跟踪  select * from  `users`  where id=36 limit 0,1	use old write connect 	2013-10-17 11:14:34 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:14:34 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:14:34 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:14:34 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:14:34 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:14:34 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:14:34 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 11:14:34 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 11:14:36 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 11:14:36 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 11:14:36 
+  操作： sql跟踪  select * from  `users`  where school_id >0  and college is not null  order by created desc limit 0,100	localhost 	2013-10-17 11:14:37 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,1000	use old write connect 	2013-10-17 11:14:37 
+  操作： sql跟踪  select * from  `users`  where id=41 limit 0,1	use old write connect 	2013-10-17 11:14:37 
+  操作： sql跟踪  select * from  `users`  where id=42 limit 0,1	use old write connect 	2013-10-17 11:14:37 
+  操作： sql跟踪  select * from  `users`  where id=40 limit 0,1	use old write connect 	2013-10-17 11:14:37 
+  操作： sql跟踪  select * from  `users`  where id=36 limit 0,1	use old write connect 	2013-10-17 11:14:37 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:14:37 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:14:37 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:14:37 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:14:37 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:14:37 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:14:37 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 11:15:13 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 11:15:13 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 11:15:13 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 11:15:14 
+  操作： sql跟踪  select * from  `users`  where school_id >0  and college is not null  order by created desc limit 0,100	localhost 	2013-10-17 11:15:15 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,1000	use old write connect 	2013-10-17 11:15:15 
+  操作： sql跟踪  select * from  `users`  where id=41 limit 0,1	use old write connect 	2013-10-17 11:15:15 
+  操作： sql跟踪  select * from  `users`  where id=42 limit 0,1	use old write connect 	2013-10-17 11:15:15 
+  操作： sql跟踪  select * from  `users`  where id=40 limit 0,1	use old write connect 	2013-10-17 11:15:15 
+  操作： sql跟踪  select * from  `users`  where id=36 limit 0,1	use old write connect 	2013-10-17 11:15:15 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:15:15 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:15:15 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:15:15 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:15:15 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:15:15 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:15:15 
+  操作： sql跟踪  select * from  `imgs`  where from_id=1	localhost 	2013-10-17 11:15:15 
+  操作： sql跟踪  select * from  `imgs`  where from_id=1	localhost 	2013-10-17 11:15:17 
+  操作： sql跟踪  select * from  `users`  where school_id >0  and college is not null  order by created desc limit 0,100	localhost 	2013-10-17 11:15:17 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,1000	use old write connect 	2013-10-17 11:15:17 
+  操作： sql跟踪  select * from  `users`  where id=41 limit 0,1	use old write connect 	2013-10-17 11:15:17 
+  操作： sql跟踪  select * from  `users`  where id=42 limit 0,1	use old write connect 	2013-10-17 11:15:17 
+  操作： sql跟踪  select * from  `users`  where id=40 limit 0,1	use old write connect 	2013-10-17 11:15:17 
+  操作： sql跟踪  select * from  `users`  where id=36 limit 0,1	use old write connect 	2013-10-17 11:15:17 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:15:17 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:15:17 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:15:17 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:15:17 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:15:17 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:15:17 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 11:15:17 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 11:15:18 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 11:15:18 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 11:15:19 
+  操作： sql跟踪  select * from  `users`  where school_id >0  and college is not null  order by created desc limit 0,100	localhost 	2013-10-17 11:15:20 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,1000	use old write connect 	2013-10-17 11:15:20 
+  操作： sql跟踪  select * from  `users`  where id=41 limit 0,1	use old write connect 	2013-10-17 11:15:20 
+  操作： sql跟踪  select * from  `users`  where id=42 limit 0,1	use old write connect 	2013-10-17 11:15:20 
+  操作： sql跟踪  select * from  `users`  where id=40 limit 0,1	use old write connect 	2013-10-17 11:15:20 
+  操作： sql跟踪  select * from  `users`  where id=36 limit 0,1	use old write connect 	2013-10-17 11:15:20 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:15:20 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:15:20 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:15:20 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:15:20 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:15:20 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:15:20 
+  操作： sql跟踪  select * from  `imgs`  where from_id=1	localhost 	2013-10-17 11:15:20 
+  操作： sql跟踪  select * from  `imgs`  where from_id=1	localhost 	2013-10-17 11:15:33 
+  操作： sql跟踪  select * from  `imgs`  where from_id=1	localhost 	2013-10-17 11:15:35 
+  操作： sql跟踪  select * from  `users`  where school_id >0  and college is not null  order by created desc limit 0,100	localhost 	2013-10-17 11:15:35 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,1000	use old write connect 	2013-10-17 11:15:35 
+  操作： sql跟踪  select * from  `users`  where id=41 limit 0,1	use old write connect 	2013-10-17 11:15:35 
+  操作： sql跟踪  select * from  `users`  where id=42 limit 0,1	use old write connect 	2013-10-17 11:15:35 
+  操作： sql跟踪  select * from  `users`  where id=40 limit 0,1	use old write connect 	2013-10-17 11:15:35 
+  操作： sql跟踪  select * from  `users`  where id=36 limit 0,1	use old write connect 	2013-10-17 11:15:35 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:15:35 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:15:36 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:15:36 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:15:36 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:15:36 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:15:36 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 11:15:36 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 11:15:37 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 11:15:37 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 11:18:19 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 11:18:19 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 11:18:22 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 11:18:22 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 11:18:23 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 11:18:23 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 11:18:41 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 11:18:41 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 11:18:42 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 11:18:42 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 11:18:43 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 11:18:43 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 11:18:44 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 11:18:44 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 11:18:45 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 11:18:45 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 11:18:47 
+  操作： sql跟踪  select * from  `users`  where school_id >0  and college is not null  order by created desc limit 0,100	localhost 	2013-10-17 11:18:49 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,1000	use old write connect 	2013-10-17 11:18:49 
+  操作： sql跟踪  select * from  `users`  where id=41 limit 0,1	use old write connect 	2013-10-17 11:18:49 
+  操作： sql跟踪  select * from  `users`  where id=42 limit 0,1	use old write connect 	2013-10-17 11:18:49 
+  操作： sql跟踪  select * from  `users`  where id=40 limit 0,1	use old write connect 	2013-10-17 11:18:49 
+  操作： sql跟踪  select * from  `users`  where id=36 limit 0,1	use old write connect 	2013-10-17 11:18:49 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:18:49 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:18:49 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:18:49 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:18:49 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:18:49 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:18:49 
+  操作： sql跟踪  select * from  `users`  where school_id >0  and college is not null  order by created desc limit 0,100	localhost 	2013-10-17 11:18:52 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,1000	use old write connect 	2013-10-17 11:18:52 
+  操作： sql跟踪  select * from  `users`  where id=41 limit 0,1	use old write connect 	2013-10-17 11:18:52 
+  操作： sql跟踪  select * from  `users`  where id=42 limit 0,1	use old write connect 	2013-10-17 11:18:52 
+  操作： sql跟踪  select * from  `users`  where id=40 limit 0,1	use old write connect 	2013-10-17 11:18:52 
+  操作： sql跟踪  select * from  `users`  where id=36 limit 0,1	use old write connect 	2013-10-17 11:18:52 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:18:52 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:18:52 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:18:52 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:18:52 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:18:52 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:18:52 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 11:19:31 
+  操作： sql跟踪  select * from  `imgs`  where from_id=1	localhost 	2013-10-17 11:19:32 
+  操作： sql跟踪  select * from  `imgs`  where from_id=1	localhost 	2013-10-17 11:19:48 
+  操作： sql跟踪  select * from  `imgs`  where from_id=1	localhost 	2013-10-17 11:19:57 
+  操作： sql跟踪  select * from  `imgs`  where from_id=1	localhost 	2013-10-17 11:19:59 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 11:19:59 
+  操作： sql跟踪  select * from  `users`  where school_id >0  and college is not null  order by created desc limit 0,100	localhost 	2013-10-17 11:20:00 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,1000	use old write connect 	2013-10-17 11:20:00 
+  操作： sql跟踪  select * from  `users`  where id=41 limit 0,1	use old write connect 	2013-10-17 11:20:00 
+  操作： sql跟踪  select * from  `users`  where id=42 limit 0,1	use old write connect 	2013-10-17 11:20:00 
+  操作： sql跟踪  select * from  `users`  where id=40 limit 0,1	use old write connect 	2013-10-17 11:20:00 
+  操作： sql跟踪  select * from  `users`  where id=36 limit 0,1	use old write connect 	2013-10-17 11:20:00 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:00 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:00 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:00 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:00 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:00 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:00 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 11:20:01 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 11:20:01 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 11:20:01 
+  操作： sql跟踪  select * from  `users`  where school_id >0  and college is not null  order by created desc limit 0,100	localhost 	2013-10-17 11:20:02 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,1000	use old write connect 	2013-10-17 11:20:02 
+  操作： sql跟踪  select * from  `users`  where id=41 limit 0,1	use old write connect 	2013-10-17 11:20:02 
+  操作： sql跟踪  select * from  `users`  where id=42 limit 0,1	use old write connect 	2013-10-17 11:20:02 
+  操作： sql跟踪  select * from  `users`  where id=40 limit 0,1	use old write connect 	2013-10-17 11:20:02 
+  操作： sql跟踪  select * from  `users`  where id=36 limit 0,1	use old write connect 	2013-10-17 11:20:02 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:02 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:02 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:02 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:02 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:02 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:02 
+  操作： sql跟踪  select * from  `imgs`  where from_id=1	localhost 	2013-10-17 11:20:03 
+  操作： sql跟踪  select * from  `imgs`  where from_id=1	localhost 	2013-10-17 11:20:04 
+  操作： sql跟踪  select * from  `users`  where school_id >0  and college is not null  order by created desc limit 0,100	localhost 	2013-10-17 11:20:05 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,1000	use old write connect 	2013-10-17 11:20:05 
+  操作： sql跟踪  select * from  `users`  where id=41 limit 0,1	use old write connect 	2013-10-17 11:20:05 
+  操作： sql跟踪  select * from  `users`  where id=42 limit 0,1	use old write connect 	2013-10-17 11:20:05 
+  操作： sql跟踪  select * from  `users`  where id=40 limit 0,1	use old write connect 	2013-10-17 11:20:05 
+  操作： sql跟踪  select * from  `users`  where id=36 limit 0,1	use old write connect 	2013-10-17 11:20:05 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:05 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:05 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:05 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:05 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:05 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:05 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 11:20:05 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 11:20:06 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 11:20:06 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 11:20:09 
+  操作： sql跟踪  select * from  `users`  where school_id >0  and college is not null  order by created desc limit 0,100	localhost 	2013-10-17 11:20:10 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,1000	use old write connect 	2013-10-17 11:20:10 
+  操作： sql跟踪  select * from  `users`  where id=41 limit 0,1	use old write connect 	2013-10-17 11:20:10 
+  操作： sql跟踪  select * from  `users`  where id=42 limit 0,1	use old write connect 	2013-10-17 11:20:10 
+  操作： sql跟踪  select * from  `users`  where id=40 limit 0,1	use old write connect 	2013-10-17 11:20:10 
+  操作： sql跟踪  select * from  `users`  where id=36 limit 0,1	use old write connect 	2013-10-17 11:20:10 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:10 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:10 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:10 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:10 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:10 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:10 
+  操作： sql跟踪  select * from  `imgs`  where from_id=1	localhost 	2013-10-17 11:20:10 
+  操作： sql跟踪  select * from  `users`  where school_id >0  and college is not null  order by created desc limit 0,100	localhost 	2013-10-17 11:20:11 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,1000	use old write connect 	2013-10-17 11:20:11 
+  操作： sql跟踪  select * from  `users`  where id=41 limit 0,1	use old write connect 	2013-10-17 11:20:11 
+  操作： sql跟踪  select * from  `users`  where id=42 limit 0,1	use old write connect 	2013-10-17 11:20:11 
+  操作： sql跟踪  select * from  `users`  where id=40 limit 0,1	use old write connect 	2013-10-17 11:20:11 
+  操作： sql跟踪  select * from  `users`  where id=36 limit 0,1	use old write connect 	2013-10-17 11:20:11 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:11 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:11 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:11 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:11 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:11 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:11 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 11:20:12 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 11:20:13 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 11:20:13 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 11:20:13 
+  操作： sql跟踪  select * from  `users`  where school_id >0  and college is not null  order by created desc limit 0,100	localhost 	2013-10-17 11:20:14 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,1000	use old write connect 	2013-10-17 11:20:14 
+  操作： sql跟踪  select * from  `users`  where id=41 limit 0,1	use old write connect 	2013-10-17 11:20:14 
+  操作： sql跟踪  select * from  `users`  where id=42 limit 0,1	use old write connect 	2013-10-17 11:20:14 
+  操作： sql跟踪  select * from  `users`  where id=40 limit 0,1	use old write connect 	2013-10-17 11:20:14 
+  操作： sql跟踪  select * from  `users`  where id=36 limit 0,1	use old write connect 	2013-10-17 11:20:14 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:14 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:14 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:14 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:14 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:14 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:14 
+  操作： sql跟踪  select * from  `imgs`  where from_id=1	localhost 	2013-10-17 11:20:15 
+  操作： sql跟踪  select * from  `users`  where school_id >0  and college is not null  order by created desc limit 0,100	localhost 	2013-10-17 11:20:15 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,1000	use old write connect 	2013-10-17 11:20:15 
+  操作： sql跟踪  select * from  `users`  where id=41 limit 0,1	use old write connect 	2013-10-17 11:20:15 
+  操作： sql跟踪  select * from  `users`  where id=42 limit 0,1	use old write connect 	2013-10-17 11:20:15 
+  操作： sql跟踪  select * from  `users`  where id=40 limit 0,1	use old write connect 	2013-10-17 11:20:15 
+  操作： sql跟踪  select * from  `users`  where id=36 limit 0,1	use old write connect 	2013-10-17 11:20:15 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:15 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:15 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:15 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:15 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:15 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:15 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 11:20:16 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 11:20:17 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 11:20:17 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 11:20:17 
+  操作： sql跟踪  select * from  `users`  where school_id >0  and college is not null  order by created desc limit 0,100	localhost 	2013-10-17 11:20:18 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,1000	use old write connect 	2013-10-17 11:20:18 
+  操作： sql跟踪  select * from  `users`  where id=41 limit 0,1	use old write connect 	2013-10-17 11:20:18 
+  操作： sql跟踪  select * from  `users`  where id=42 limit 0,1	use old write connect 	2013-10-17 11:20:18 
+  操作： sql跟踪  select * from  `users`  where id=40 limit 0,1	use old write connect 	2013-10-17 11:20:18 
+  操作： sql跟踪  select * from  `users`  where id=36 limit 0,1	use old write connect 	2013-10-17 11:20:18 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:18 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:18 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:18 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:18 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:18 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:18 
+  操作： sql跟踪  select * from  `users`  where school_id >0  and college is not null  order by created desc limit 0,100	localhost 	2013-10-17 11:20:20 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,1000	use old write connect 	2013-10-17 11:20:20 
+  操作： sql跟踪  select * from  `users`  where id=41 limit 0,1	use old write connect 	2013-10-17 11:20:20 
+  操作： sql跟踪  select * from  `users`  where id=42 limit 0,1	use old write connect 	2013-10-17 11:20:20 
+  操作： sql跟踪  select * from  `users`  where id=40 limit 0,1	use old write connect 	2013-10-17 11:20:20 
+  操作： sql跟踪  select * from  `users`  where id=36 limit 0,1	use old write connect 	2013-10-17 11:20:20 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:20 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:20 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:20 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:20 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:20 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:20 
+  操作： sql跟踪  select * from  `imgs`  where from_id=1	localhost 	2013-10-17 11:20:20 
+  操作： sql跟踪  select * from  `users`  where school_id >0  and college is not null  order by created desc limit 0,100	localhost 	2013-10-17 11:20:21 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,1000	use old write connect 	2013-10-17 11:20:21 
+  操作： sql跟踪  select * from  `users`  where id=41 limit 0,1	use old write connect 	2013-10-17 11:20:21 
+  操作： sql跟踪  select * from  `users`  where id=42 limit 0,1	use old write connect 	2013-10-17 11:20:21 
+  操作： sql跟踪  select * from  `users`  where id=40 limit 0,1	use old write connect 	2013-10-17 11:20:21 
+  操作： sql跟踪  select * from  `users`  where id=36 limit 0,1	use old write connect 	2013-10-17 11:20:21 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:21 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:21 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:21 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:21 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:21 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:20:21 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 11:20:22 
+  操作： sql跟踪  select * from  `users`  where school_id >0  and college is not null  order by created desc limit 0,100	localhost 	2013-10-17 11:21:23 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,1000	use old write connect 	2013-10-17 11:21:23 
+  操作： sql跟踪  select * from  `users`  where id=41 limit 0,1	use old write connect 	2013-10-17 11:21:23 
+  操作： sql跟踪  select * from  `users`  where id=42 limit 0,1	use old write connect 	2013-10-17 11:21:23 
+  操作： sql跟踪  select * from  `users`  where id=40 limit 0,1	use old write connect 	2013-10-17 11:21:23 
+  操作： sql跟踪  select * from  `users`  where id=36 limit 0,1	use old write connect 	2013-10-17 11:21:23 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:23 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:23 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:23 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:23 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:23 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:23 
+  操作： sql跟踪  select * from  `imgs`  where from_id=1	localhost 	2013-10-17 11:21:24 
+  操作： sql跟踪  select * from  `users`  where school_id >0  and college is not null  order by created desc limit 0,100	localhost 	2013-10-17 11:21:25 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,1000	use old write connect 	2013-10-17 11:21:25 
+  操作： sql跟踪  select * from  `users`  where id=41 limit 0,1	use old write connect 	2013-10-17 11:21:25 
+  操作： sql跟踪  select * from  `users`  where id=42 limit 0,1	use old write connect 	2013-10-17 11:21:25 
+  操作： sql跟踪  select * from  `users`  where id=40 limit 0,1	use old write connect 	2013-10-17 11:21:25 
+  操作： sql跟踪  select * from  `users`  where id=36 limit 0,1	use old write connect 	2013-10-17 11:21:25 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:25 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:25 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:25 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:25 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:25 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:25 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 11:21:25 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 11:21:26 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 11:21:26 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 11:21:27 
+  操作： sql跟踪  select * from  `users`  where school_id >0  and college is not null  order by created desc limit 0,100	localhost 	2013-10-17 11:21:27 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,1000	use old write connect 	2013-10-17 11:21:27 
+  操作： sql跟踪  select * from  `users`  where id=41 limit 0,1	use old write connect 	2013-10-17 11:21:27 
+  操作： sql跟踪  select * from  `users`  where id=42 limit 0,1	use old write connect 	2013-10-17 11:21:27 
+  操作： sql跟踪  select * from  `users`  where id=40 limit 0,1	use old write connect 	2013-10-17 11:21:27 
+  操作： sql跟踪  select * from  `users`  where id=36 limit 0,1	use old write connect 	2013-10-17 11:21:27 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:27 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:27 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:27 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:27 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:27 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:27 
+  操作： sql跟踪  select * from  `users`  where school_id >0  and college is not null  order by created desc limit 0,100	localhost 	2013-10-17 11:21:28 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,1000	use old write connect 	2013-10-17 11:21:28 
+  操作： sql跟踪  select * from  `users`  where id=41 limit 0,1	use old write connect 	2013-10-17 11:21:28 
+  操作： sql跟踪  select * from  `users`  where id=42 limit 0,1	use old write connect 	2013-10-17 11:21:28 
+  操作： sql跟踪  select * from  `users`  where id=40 limit 0,1	use old write connect 	2013-10-17 11:21:28 
+  操作： sql跟踪  select * from  `users`  where id=36 limit 0,1	use old write connect 	2013-10-17 11:21:28 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:28 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:28 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:28 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:28 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:28 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:28 
+  操作： sql跟踪  select * from  `imgs`  where from_id=1	localhost 	2013-10-17 11:21:28 
+  操作： sql跟踪  select * from  `imgs`  where from_id=1	localhost 	2013-10-17 11:21:30 
+  操作： sql跟踪  select * from  `users`  where school_id >0  and college is not null  order by created desc limit 0,100	localhost 	2013-10-17 11:21:30 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,1000	use old write connect 	2013-10-17 11:21:30 
+  操作： sql跟踪  select * from  `users`  where id=41 limit 0,1	use old write connect 	2013-10-17 11:21:30 
+  操作： sql跟踪  select * from  `users`  where id=42 limit 0,1	use old write connect 	2013-10-17 11:21:30 
+  操作： sql跟踪  select * from  `users`  where id=40 limit 0,1	use old write connect 	2013-10-17 11:21:30 
+  操作： sql跟踪  select * from  `users`  where id=36 limit 0,1	use old write connect 	2013-10-17 11:21:30 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:30 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:30 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:30 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:30 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:30 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:30 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 11:21:30 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 11:21:31 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 11:21:31 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 11:21:32 
+  操作： sql跟踪  select * from  `users`  where school_id >0  and college is not null  order by created desc limit 0,100	localhost 	2013-10-17 11:21:32 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,1000	use old write connect 	2013-10-17 11:21:32 
+  操作： sql跟踪  select * from  `users`  where id=41 limit 0,1	use old write connect 	2013-10-17 11:21:32 
+  操作： sql跟踪  select * from  `users`  where id=42 limit 0,1	use old write connect 	2013-10-17 11:21:32 
+  操作： sql跟踪  select * from  `users`  where id=40 limit 0,1	use old write connect 	2013-10-17 11:21:32 
+  操作： sql跟踪  select * from  `users`  where id=36 limit 0,1	use old write connect 	2013-10-17 11:21:32 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:32 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:32 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:32 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:32 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:32 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:32 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 11:21:37 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 11:21:37 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 11:21:37 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 11:21:38 
+  操作： sql跟踪  select * from  `users`  where school_id >0  and college is not null  order by created desc limit 0,100	localhost 	2013-10-17 11:21:38 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,1000	use old write connect 	2013-10-17 11:21:38 
+  操作： sql跟踪  select * from  `users`  where id=41 limit 0,1	use old write connect 	2013-10-17 11:21:38 
+  操作： sql跟踪  select * from  `users`  where id=42 limit 0,1	use old write connect 	2013-10-17 11:21:38 
+  操作： sql跟踪  select * from  `users`  where id=40 limit 0,1	use old write connect 	2013-10-17 11:21:38 
+  操作： sql跟踪  select * from  `users`  where id=36 limit 0,1	use old write connect 	2013-10-17 11:21:38 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:38 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:38 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:38 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:38 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:38 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:38 
+  操作： sql跟踪  select * from  `imgs`  where from_id=1	localhost 	2013-10-17 11:21:39 
+  操作： sql跟踪  select * from  `imgs`  where from_id=1	localhost 	2013-10-17 11:21:40 
+  操作： sql跟踪  select * from  `users`  where school_id >0  and college is not null  order by created desc limit 0,100	localhost 	2013-10-17 11:21:40 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,1000	use old write connect 	2013-10-17 11:21:40 
+  操作： sql跟踪  select * from  `users`  where id=41 limit 0,1	use old write connect 	2013-10-17 11:21:40 
+  操作： sql跟踪  select * from  `users`  where id=42 limit 0,1	use old write connect 	2013-10-17 11:21:40 
+  操作： sql跟踪  select * from  `users`  where id=40 limit 0,1	use old write connect 	2013-10-17 11:21:40 
+  操作： sql跟踪  select * from  `users`  where id=36 limit 0,1	use old write connect 	2013-10-17 11:21:40 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:40 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:40 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:40 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:40 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:40 
+  操作： sql跟踪  select * from  `school` 	use old write connect 	2013-10-17 11:21:40 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 11:21:41 
+  操作： sql跟踪  select * from  `plan`  order by created desc limit 0,10	localhost 	2013-10-17 11:21:41 
+  操作： sql跟踪  select * from  `areas`  where parentid=0 order by vieworder asc 	use old write connect 	2013-10-17 11:21:41 
+  操作： sql跟踪  select * from  `config`  where id=1 limit 0,1	localhost 	2013-10-17 11:21:42 
+ 
